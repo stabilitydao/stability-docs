@@ -10,7 +10,9 @@
 ## Stability Platform
 
 * [Assets Management](stability-platform/assets-management.md)
-* [Vaults](stability-platform/vaults.md)
+* [Vaults](stability-platform/vaults/README.md)
+  * [Compounder](stability-platform/vaults/compounder.md)
+  * [MetaVault](stability-platform/vaults/metavault.md)
 * [Strategies](stability-platform/strategies.md)
 * [Fee structure](stability-platform/fee-structure.md)
 
