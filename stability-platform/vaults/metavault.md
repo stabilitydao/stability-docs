@@ -2,7 +2,7 @@
 description: 'Last Update: November 2024'
 ---
 
-# AI-driven MetaVault
+# AI MetaVault
 
 MetaVault is an automated portfolio vault / index fund. It strategically allocates holders' funds into a designated set of Compounder vaults with different strategy assets.
 
@@ -25,3 +25,9 @@ Using machine learning for rebalancing allows this type of vault to work effecti
 ### Risk management
 
 Classifying assets by risk for use in MetaVault is a problem that can be effectively solved using machine learning.
+
+## Refs
+
+* [Singularity](https://docs.singularitydao.ai)  (May 2021)
+* [Mozaic](https://docs.mozaic.finance) (November 2023)
+* [Robonet](https://docs.robonet.finance) (July 2024)
