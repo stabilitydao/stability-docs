@@ -39,10 +39,10 @@
 
 ## Links and Resources
 
+* [Twitter](https://twitter.com/stabilitydao)
 * [Discord](https://discord.gg/TjuEkkaRQm)
 * [Warpcast](https://warpcast.com/\~/channel/stability)
-* [Twitter](https://twitter.com/stabilitydao)
 * [Lens](https://hey.xyz/u/stabilitydao)
 * [Telegram](https://t.me/stabilitydao)
-* [GitHub](https://github.com/stabilitydao/stability-contracts)
+* [GitHub](https://github.com/stabilitydao)
 * [Media Kit](https://drive.google.com/drive/folders/1k-10HKqZ0e2O1xbdVjSVMkIm2wYoYyY3?usp=sharing)
