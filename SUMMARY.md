@@ -24,6 +24,7 @@
 
 ## Developer Documentation
 
+* [Contract Addresses](developer-documentation/contract-addresses.md)
 * [Strategy Development](developer-documentation/strategy-development.md)
 * [Assembly](developer-documentation/assembly.md)
 
@@ -41,7 +42,7 @@
 
 * [Twitter](https://twitter.com/stabilitydao)
 * [Discord](https://discord.gg/TjuEkkaRQm)
-* [Warpcast](https://warpcast.com/\~/channel/stability)
+* [Warpcast](https://warpcast.com/~/channel/stability)
 * [Lens](https://hey.xyz/u/stabilitydao)
 * [Telegram](https://t.me/stabilitydao)
 * [GitHub](https://github.com/stabilitydao)
