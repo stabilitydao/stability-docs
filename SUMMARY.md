@@ -18,6 +18,7 @@
 
 ## Stability DAO
 
+* [Sonic Gems](stability-dao/gems.md)
 * [Team & Purposes](stability-dao/team-and-purposes.md)
 * [Tokenomics](stability-dao/tokenomics.md)
 * [Roadmap](stability-dao/roadmap.md)
