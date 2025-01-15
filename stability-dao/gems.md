@@ -12,6 +12,6 @@ As Sonic Boom winners, we receive both pre-allocated gems and gems earned by our
 
 **We distribute ALL 100% of the received Sonic Gems to our users.**
 
-Gems are distributed depending on the user's earnings in vaults in each of [Yield Contests](https://stability.farm/users), which take place from January 16, 2025 to June 16, 2025.
+Gems are distributed depending on the user's earnings in vaults in each of [Yield Contests](https://stability.farm/users), which take place from January 16, 2025 to June 18, 2025.
 
 Gems of the first season are distributed in the wrapper token sGEM1.
