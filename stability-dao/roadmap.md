@@ -22,22 +22,38 @@ Work in the Sonic ecosystem.
 * [ ] STBL public sale
 * [ ] veSTBL
 
-### Vaults, base strategies
-
-* [ ] ALM
-* [ ] MetaVault
-
-### Strategies
+### Simple strategies
 
 * [x] BSF | Beets Stable Farm
 * [x] BWF | Beets Weighted Farm
 * [x] EF | Equalizer Farm
 * [x] SF | SwapX Farm
 * [x] ISF | Ichi SwapX Farm
-* [ ] ASF | ALM Shadow Farm
-* [ ] SiF | Silo Farm
-* [ ] AMF | ALM Metropolis Farm
-* [ ] ASpF | ALM Spooky Farm
+* [x] SiF | Silo Farm
+
+### ALM
+
+* Fill-Up algo for volatile pairs
+  * [x] Base Fill-Up mechanics
+  * [ ] Expand Fill-Up position when possible
+  * [ ] Re-balance by swap when out of range
+* Volatility channel for stable pairs
+  * [ ] Base stable mechanics
+* [ ] Back-tester
+* Strategies for DeXes covering
+  * [x] ASF | ALM Shadow Farm
+  * [ ] AMF | ALM Metropolis Farm
+  * [ ] ASpF | ALM Spooky Farm
+
+### Leverage
+
+* [ ] SiL | Silo Leverage
+
+### MetaVaults
+
+* [ ] Rebase for sUSD, sS, sETH
+* [ ] Max-yield
+* [ ] Trading
 
 ### DeFAI
 
