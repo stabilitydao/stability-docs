@@ -36,6 +36,7 @@ Work in the Sonic ecosystem.
 * Fill-Up algo for volatile pairs
   * [x] Base Fill-Up mechanics
   * [ ] Expand Fill-Up position when possible
+  * [ ] Put base position more effective
   * [ ] Re-balance by swap when out of range
 * Volatility channel for stable pairs
   * [ ] Base stable mechanics
