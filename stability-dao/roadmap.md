@@ -48,7 +48,10 @@ Work in the Sonic ecosystem.
 
 ### Leverage
 
-* [ ] SiL | Silo Leverage
+* SiL | Silo Leverage
+  * [x] S-sts, stS-S
+  * [ ] wstkscUSD-USDC, wstkscETH-ETH
+  * [ ] wOS-S
 
 ### MetaVaults
 
