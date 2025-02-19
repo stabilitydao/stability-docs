@@ -1,15 +1,27 @@
 ---
-description: 'Last Update: April 2024'
+description: 'Last Update: Feb 2025'
 ---
 
 # Tokenomics
 
-The long-term goal of our decentralised organisation is to operate autonomously and develop itself through collective decision-making and management. Having $STBL Tokens users actions will be direct to following utilities:
+* Total supply: 100m STBL
+* Public sale: 2m STBL per $0.25 (12% discount)
+* TGE price: $0.28
+* FDV: $28m
 
-* Setting Platform Fee&#x20;
-* Rates Distribution of Platform&#x20;
-* Revenue Approval of New Tokens
-* Profitable HODL
-* Vault creation
+## Allocations
 
-Our tokenomics are prepared and readily available for your review. For a detailed understanding, please follow the link to our [Google Doc](https://docs.google.com/spreadsheets/d/1jgDqPkextV4E2sr2\_5wkiUXddAk4CiR\_cBUMu9mf57A/).
+| Allocation  | Amount | TGE  | Cliff | Vesting |
+|-------------|--------|------|-------|---------|
+| Public sale | 2%     | 100% | -     | -       |
+| Liquidity   | 3%     | 100% | -     | -       |
+| Investors   | 20%    | 0%   | 6m+   | TBD     |
+| Foundation  | 30%    | 0%   | 6m+   | 4 years |
+| Community   | 25%    | TBD  | 6m+   | 4 years |
+| Team        | 20%    | 0%   | 12m+  | 4 years |
+
+## Utilities
+
+* Profit sharing and governance by veSTBL
+* AI agents usage
+* Yield Contests rewards
