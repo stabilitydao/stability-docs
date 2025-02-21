@@ -15,7 +15,7 @@ description: 'Last Update: Feb 2025'
 |-------------|--------|-------|-------|---------|
 | Public sale | 4%     | 100%  | -     | -       |
 | Liquidity   | 6%     | 100%  | -     | -       |
-| Investors   | 20%    | 0%    | 6m+   | TBD     |
+| Investors   | 20%    | 0%    | 6m+   | 1 year  |
 | Foundation  | 30%    | 0%    | 6m+   | 4 years |
 | Community   | 20%    | 0.14% | 6m+   | 4 years |
 | Team        | 20%    | 0%    | 12m+  | 4 years |
