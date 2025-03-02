@@ -22,6 +22,6 @@ description: 'Last Update: Feb 2025'
 
 ## Utilities
 
-* Profit sharing and governance by veSTBL
+* Profit sharing and governance by xSTBL
 * AI agents usage
 * Yield Contests rewards
