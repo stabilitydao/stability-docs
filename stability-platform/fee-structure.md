@@ -4,7 +4,7 @@ description: 'Last Update: October 2024'
 
 # Fee structure
 
-Platform extracts 6**-20%** fee from strategies **revenue**. Asset Management - 0% fee.
+Platform extracts **6**-**30%** fee from strategies **revenue**. Asset Management - 0% fee.
 
 Extracted fees go to:
 
