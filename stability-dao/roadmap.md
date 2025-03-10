@@ -19,8 +19,8 @@ Work in the Sonic ecosystem.
 ### Tokenomics
 
 * [x] sGEM1: liquid Sonic Gems wrapper
-* [ ] STBL public sale
-* [ ] veSTBL
+* [x] STBL public sale
+* [ ] xSTBL
 
 ### Simple strategies
 
@@ -51,7 +51,8 @@ Work in the Sonic ecosystem.
 * SiL | Silo Leverage
   * [x] S-sts, stS-S
   * [ ] wstkscUSD-USDC, wstkscETH-ETH
-  * [ ] wOS-S
+  * [x] wOS-S
+  * [ ] wanS-S
 
 ### MetaVaults
 
