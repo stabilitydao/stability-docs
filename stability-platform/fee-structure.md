@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: October 2024'
+description: 'Last Update: Apr 2025'
 ---
 
 # Fee structure
@@ -8,9 +8,7 @@ Platform extracts **6**-**30%** fee from strategies **revenue**. Asset Managemen
 
 Extracted fees go to:
 
-* veSTBL: 30-70%
-* StrategyLogic NFT: 10-40%
-* VaultManager NFT: 10-20%
-* Dev Fee: 10-50%
+* xSTBL: 50%
+* Dev Fee: 50%
 
 Depending on results of governance weighted vote and specific chain conditions, fees could be changed according to [Token & Governance](../stability-dao/tokenomics.md) development.

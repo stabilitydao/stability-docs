@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Jan 2025'
+description: 'Last update: Apr 2025'
 ---
 
 # Roadmap
@@ -20,7 +20,9 @@ Work in the Sonic ecosystem.
 
 * [x] sGEM1: liquid Sonic Gems wrapper
 * [x] STBL public sale
-* [ ] xSTBL
+* [x] xSTBL
+* [ ] Generating units
+* [ ] Voting
 
 ### Simple strategies
 
@@ -30,6 +32,10 @@ Work in the Sonic ecosystem.
 * [x] SF | SwapX Farm
 * [x] ISF | Ichi SwapX Farm
 * [x] SiF | Silo Farm
+* [ ] Si | Silo
+* [ ] A | Aave
+* [ ] M | Mach
+* [ ] E | Euler
 
 ### ALM
 
@@ -54,16 +60,16 @@ Work in the Sonic ecosystem.
   * [x] wstkscETH-ETH
   * [x] wOS-S
   * [x] wanS-S
+* SiAL | Silo Advanced Leverage
+  * [x] PT-vaults
 
 ### MetaVaults
 
-* [ ] Rebase for sUSD, sS, sETH
-* [ ] Max-yield
-* [ ] Trading
+* [ ] metaUSD + wmetaUSD
+* [ ] metaS + wmetaS
+* [ ] metaETH + wmetaETH
 
 ### DeFAI
 
+* [ ] Predictor Agent
 * [ ] Asset Manager Agent
-* [ ] Yield Tracker Agent
-* [ ] Trader Agent
-* [ ] Factory

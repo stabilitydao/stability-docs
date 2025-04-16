@@ -24,11 +24,9 @@
 * [Tokenomics](stability-dao/tokenomics.md)
 * [Roadmap](stability-dao/roadmap.md)
 
-## Developer Documentation
+## Developers
 
 * [Contract Addresses](developer-documentation/contract-addresses.md)
-* [Strategy Development](developer-documentation/strategy-development.md)
-* [Assembly](developer-documentation/assembly.md)
 
 ## FAQ
 
