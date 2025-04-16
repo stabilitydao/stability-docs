@@ -34,8 +34,10 @@ Work in the Sonic ecosystem.
 * [x] SiF | Silo Farm
 * [ ] Si | Silo
 * [ ] A | Aave
+* [ ] AMF | Aave Merit Farm
 * [ ] M | Mach
 * [ ] E | Euler
+* [ ] ShF | Shadow Farm
 
 ### ALM
 
