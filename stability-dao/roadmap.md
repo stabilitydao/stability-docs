@@ -63,6 +63,11 @@ Work in the Sonic ecosystem.
 * SiAL | Silo Advanced Leverage
   * [x] PT-vaults
 
+### Lending
+
+* [x] Run [stability.market](https://stability.market)
+* [ ] Isolated markets
+
 ### MetaVaults
 
 * [ ] metaUSD + wmetaUSD
@@ -73,3 +78,8 @@ Work in the Sonic ecosystem.
 
 * [ ] Predictor Agent
 * [ ] Asset Manager Agent
+
+### Beta
+
+* [ ] Beta UI
+* [ ] Beta contacts (audited)
