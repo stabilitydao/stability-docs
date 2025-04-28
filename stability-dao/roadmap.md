@@ -68,7 +68,7 @@ Work in the Sonic ecosystem.
 ### Lending
 
 * [x] Run [stability.market](https://stability.market)
-* [ ] Isolated markets
+* [x] Isolated markets
 
 ### MetaVaults
 
