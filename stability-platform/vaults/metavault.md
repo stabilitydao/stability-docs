@@ -1,33 +1,26 @@
 ---
-description: 'Last Update: November 2024'
+description: 'Last Update: Apr 2025'
 ---
 
-# AI MetaVault
+# MetaVault
 
-MetaVault is an automated portfolio vault / index fund. It strategically allocates holders' funds into a designated set of Compounder vaults with different strategy assets.
+A MetaVault is a vault that invests in other vaults. Our implementation has a unique architecture that was developed to automate the management of decentralized finances based on the Stability platform.
 
-## Possible sets
+## Requirements
 
-* ETH + LST
-* Stablecoins with limited risk score
-* Assets for trading
-* Token liquidity
-* High risk, max yield
+* Safe to use with all Stability vaults (Compounder/MetaVault), any assets
+* Rebase stablecoin (pegged to USD, S, ETH, BTC) for fast yield delivery
+* Wrapped version to use in lendings
+* ERC4626 single asset wrapper to use in boosted pools
 
-## Why AI?
+## Vaults in development
 
-### Rebalance
-
-Rebalancing index fund is an expensive process. The costs are swap fees, gas, and losses due to price fluctuations.
-
-Using machine learning for rebalancing allows this type of vault to work effectively.
-
-### Risk management
-
-Classifying assets by risk for use in MetaVault is a problem that can be effectively solved using machine learning.
-
-## Refs
-
-* [Singularity](https://docs.singularitydao.ai)  (May 2021)
-* [Mozaic](https://docs.mozaic.finance) (November 2023)
-* [Robonet](https://docs.robonet.finance) (July 2024)
+* **metaUSD**: investing in all strategies with USD stablecoins (lend, LP, leverage, etc)
+  * metaUSDC: supplying USDC to lending protocols
+  * metascUSD: supplying scUSD to lending protocols
+* **metaS**: investing in all strategies with S
+* **metaETH**: investing in all strategies with ETH
+* **metaBTC**: investing in all strategies with BTC
+* tradeS: metaS + metaBTC trading by agent
+* tradeBTC: metaUSD + metaBTC trading by agent
+* portfolioXXX: basket of MetaVaults in fixed or dynamic proportions
