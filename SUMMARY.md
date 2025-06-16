@@ -28,6 +28,10 @@
 
 * [Contract Addresses](developer-documentation/contract-addresses.md)
 
+***
+
+* [Audits](audits.md)
+
 ## FAQ
 
 * [How-to Guides](faq/how-to-guides/README.md)

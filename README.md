@@ -26,5 +26,5 @@ Stability stands as a decentralised infrastructure layer for strategic DeFi Asse
 
 Empowered by smart contracts, Stability employs a set of investment strategies that automatically amplify user rewards across diverse liquidity pools (LPs), automated market making (AMM) projects, and other lucrative yield farming avenues within the DeFi ecosystem.
 
-At the heart of Stability's offerings are [Vaults](stability-platform/vaults.md). These dynamic investment vehicles are intricately linked to user's deposited tokens, compounding arbitrary farm reward tokens from any liquidity sources back into initial asset. Contrary to the connotation of the term "Vault," user's funds on Stability are never locked into any contract. User retain the freedom to withdraw at any given moment.
+At the heart of Stability's offerings are [Vaults](stability-platform/vaults/). These dynamic investment vehicles are intricately linked to user's deposited tokens, compounding arbitrary farm reward tokens from any liquidity sources back into initial asset. Contrary to the connotation of the term "Vault," user's funds on Stability are never locked into any contract. User retain the freedom to withdraw at any given moment.
 
