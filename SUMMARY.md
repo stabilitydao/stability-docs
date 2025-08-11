@@ -28,9 +28,10 @@
 
 * [Contract Addresses](developer-documentation/contract-addresses.md)
 
-***
+## Risks
 
 * [Audits](audits.md)
+* [Accident 1](stability-platform/risks/accident1.md)
 
 ## FAQ
 
