@@ -14,9 +14,10 @@ On July 29, 2025, Credix multisig executed batch [transaction](https://sonicscan
 
 ## Compensation
 
-Stability DAO has committed to covering the financial damages caused by this accident to all affected users of our Meta Vaults.
-Until full compensation is achieved, we allocate 20% of the platform's income to it.
-We are engaging with police authorities as well to recover the funds.
+Stability DAO has committed to covering the financial damages caused by this accident to all affected users of our Meta Vaults. Compensation is provided to all holders of MetaVaults and WrappedMetaVaults, as well as to all users of protocols whose contracts were working with MetaVaults or WrappedMetaVaults at the time of the accident.
+
+Until full compensation is achieved, we allocate 20% of the platform's income to it. We are engaging with police authorities as well to recover the funds.
+
 Compensation occurs by burning the liquid recovery token.
 
 ## Recovery tokens
