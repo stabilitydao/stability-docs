@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Apr 2025'
+description: 'Last update: Sept 9, 2025'
 ---
 
 # Roadmap
@@ -14,74 +14,33 @@ description: 'Last update: Apr 2025'
 
 ## 2025
 
-Work in the Sonic ecosystem.
+### Products
 
-### Tokenomics
+* [x] Lending and LP strategies for Sonic ecosystem
+* [x] Leverage farming
+* [ ] MetaVaults
+  * [x] metaUSD
+  * [x] metaS
+  * [ ] metaBTC
+  * [ ] metaETH
+* [ ] Lending markets
+* [ ] OmniVaults
 
-* [x] sGEM1: liquid Sonic Gems wrapper
+### Chains
+
+* [x] Sonic
+* [ ] Avalanche
+
+### STBL Tokenomics
+
 * [x] STBL public sale
-* [x] xSTBL
-* [ ] Generating units
+* [x] Staked xSTBL revenue sharing
 * [ ] Voting
+* [ ] Agents tokenization
 
-### Simple strategies
+### Platform Beta
 
-* [x] BSF | Beets Stable Farm
-* [x] BWF | Beets Weighted Farm
-* [x] EF | Equalizer Farm
-* [x] SF | SwapX Farm
-* [x] ISF | Ichi SwapX Farm
-* [x] SiF | Silo Farm
-* [ ] Si | Silo
-* [ ] A | Aave
-* [ ] AMF | Aave Merit Farm
-* [ ] M | Mach
-* [ ] E | Euler
-* [ ] ShF | Shadow Farm
-
-### ALM
-
-* Fill-Up algo for volatile pairs
-  * [x] Base Fill-Up mechanics
-  * [ ] Expand Fill-Up position when possible
-  * [ ] Put base position more effective
-  * [ ] Re-balance by swap when out of range
-* Volatility channel for stable pairs
-  * [ ] Base stable mechanics
-* [ ] Back-tester
-* Strategies for DeXes covering
-  * [x] ASF | ALM Shadow Farm
-  * [ ] AMF | ALM Metropolis Farm
-  * [ ] ASpF | ALM Spooky Farm
-
-### Leverage
-
-* SiL | Silo Leverage
-  * [x] S-sts, stS-S
-  * [x] wstkscUSD-USDC
-  * [x] wstkscETH-ETH
-  * [x] wOS-S
-  * [x] wanS-S
-* SiAL | Silo Advanced Leverage
-  * [x] PT-vaults
-
-### Lending
-
-* [x] Run [stability.market](https://stability.market)
-* [x] Isolated markets
-
-### MetaVaults
-
-* [ ] metaUSD + wmetaUSD
-* [ ] metaS + wmetaS
-* [ ] metaETH + wmetaETH
-
-### DeFAI
-
-* [ ] Predictor Agent
-* [ ] Asset Manager Agent
-
-### Beta
-
+* [x] Contracts audit (Spearbit-Cantina)
+* [x] Accident recovery system
+* [ ] Agents
 * [ ] Beta UI
-* [ ] Beta contacts (audited)
