@@ -16,31 +16,55 @@ description: 'Last update: Sept 9, 2025'
 
 ### Products
 
-* [x] Lending and LP strategies for Sonic ecosystem
+* [x] Lending and LP strategies
 * [x] Leverage farming
-* [ ] MetaVaults
+* [x] MetaVaults
   * [x] metaUSD
   * [x] metaS
   * [ ] metaBTC
   * [ ] metaETH
 * [ ] Lending markets
 * [ ] OmniVaults
+  * [ ] omniUSD
+  * [ ] omniBTC
+  * [ ] omniETH
+
+### STBL Tokenomics
+
+* [x] STBL public sale
+* [x] Staked xSTBL revenue sharing
+* [ ] Voting of DAO governance
 
 ### Chains
 
 * [x] Sonic
 * [ ] Avalanche
 
-### STBL Tokenomics
-
-* [x] STBL public sale
-* [x] Staked xSTBL revenue sharing
-* [ ] Voting
-* [ ] Agents tokenization
-
 ### Platform Beta
 
 * [x] Contracts audit (Spearbit-Cantina)
 * [x] Accident recovery system
-* [ ] Agents
+* [ ] Agent network
 * [ ] Beta UI
+
+## 2026 draft
+
+### Products
+
+* [ ] Managed MetaVaults
+* [ ] Bitcoin re-staking
+* [ ] Yield tracker agent
+* [ ] Trader agent
+
+### STBL Tokenomics
+
+* [ ] Lending protocols integration
+* [ ] Bridging STBL
+* [ ] Agents tokenization (voting, STBL/AGENT LPs)
+
+### Chains
+
+* [ ] Ethereum L2s
+* [ ] Ethereum
+* [ ] Bitcoin L2s
+* [ ] Bitcoin
