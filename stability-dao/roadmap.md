@@ -44,6 +44,7 @@ description: 'Last update: Sept 9, 2025'
 
 * [x] Contracts audit (Spearbit-Cantina)
 * [x] Accident recovery system
+* [x] Vault price oracle
 * [ ] Agent network
 * [ ] Beta UI
 
