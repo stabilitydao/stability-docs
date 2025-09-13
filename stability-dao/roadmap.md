@@ -50,13 +50,6 @@ description: 'Last update: Sept 9, 2025'
 
 ## 2026 draft
 
-### Products
-
-* [ ] Managed MetaVaults
-* [ ] Bitcoin re-staking
-* [ ] Yield tracker agent
-* [ ] Trader agent
-
 ### STBL Tokenomics
 
 * [ ] Lending protocols integration
@@ -69,3 +62,10 @@ description: 'Last update: Sept 9, 2025'
 * [ ] Ethereum
 * [ ] Bitcoin L2s
 * [ ] Bitcoin
+
+### Products
+
+* [ ] Managed MetaVaults
+* [ ] Bitcoin re-staking
+* [ ] Yield tracker agent
+* [ ] Trader agent
