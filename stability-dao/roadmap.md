@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Sept 9, 2025'
+description: 'Last update: Sept 14, 2025'
 ---
 
 # Roadmap
@@ -34,6 +34,11 @@ description: 'Last update: Sept 9, 2025'
 * [x] STBL public sale
 * [x] Staked xSTBL revenue sharing
 * [ ] Voting of DAO governance
+
+### Points earning
+
+* [x] Sonic Season 1 gems | sGEM1
+* [x] Sonic Season 2 points
 
 ### Chains
 
