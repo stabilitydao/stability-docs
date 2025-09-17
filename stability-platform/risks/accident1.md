@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: Sept 14, 2025'
+description: 'Last Update: Sept 17, 2025'
 ---
 
 # Accident 1: Credix rugpull
