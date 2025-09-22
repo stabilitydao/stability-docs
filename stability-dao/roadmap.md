@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Sept 14, 2025'
+description: 'Last update: Sept 22, 2025'
 ---
 
 # Roadmap
@@ -33,7 +33,7 @@ description: 'Last update: Sept 14, 2025'
 
 * [x] STBL public sale
 * [x] Staked xSTBL revenue sharing
-* [ ] Voting of DAO governance
+* [ ] SP-1: increase instant xSTBL exit fee 50% -> 80%
 
 ### Points earning
 
@@ -43,7 +43,7 @@ description: 'Last update: Sept 14, 2025'
 ### Chains
 
 * [x] Sonic
-* [ ] Avalanche
+* [x] Avalanche
 
 ### Platform Beta
 
@@ -55,22 +55,18 @@ description: 'Last update: Sept 14, 2025'
 
 ## 2026 draft
 
+### On-chain asset management
+
+* [ ] Expand to 10+ chains
+* [ ] Managed MetaVaults
+* [ ] Yield tracker agent
+* [ ] Trader agent
+
 ### STBL Tokenomics
 
+* [ ] Inter-chain voting power
+* [ ] Voting for MetaVault allocations
+* [ ] Voting for incentives allocations
 * [ ] Lending protocols integration
 * [ ] Bridging STBL
 * [ ] Agents tokenization (voting, STBL/AGENT LPs)
-
-### Chains
-
-* [ ] Ethereum L2s
-* [ ] Ethereum
-* [ ] Bitcoin L2s
-* [ ] Bitcoin
-
-### Products
-
-* [ ] Managed MetaVaults
-* [ ] Bitcoin re-staking
-* [ ] Yield tracker agent
-* [ ] Trader agent
