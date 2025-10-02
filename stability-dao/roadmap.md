@@ -19,8 +19,10 @@ description: 'Last update: Oct 2, 2025'
 * [x] Lending and LP strategies
 * [x] Leverage farming
 * [x] MetaVaults
-  * [x] metaUSD
-  * [x] metaS
+  * [x] Sonic **metaUSD**
+  * [x] Sonic **metaS**
+  * [x] Avalanche **metaUSDC**
+  * [ ] Plasma **metaUSDT**
   * [ ] metaBTC
   * [ ] metaETH
 * [ ] Lending markets
@@ -64,7 +66,7 @@ description: 'Last update: Oct 2, 2025'
 * [ ] Expand to 10+ chains
 * [ ] Managed MetaVaults
 * [ ] Yield tracker agent
-* [ ] Trader agent
+* [ ] **tradeBTC** MetaVault and Trader agent
 
 ### STBL Tokenomics
 
