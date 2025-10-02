@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Sept 22, 2025'
+description: 'Last update: Oct 2, 2025'
 ---
 
 # Roadmap
@@ -33,7 +33,10 @@ description: 'Last update: Sept 22, 2025'
 
 * [x] STBL public sale
 * [x] Staked xSTBL revenue sharing
-* [ ] SP-1: increase instant xSTBL exit fee 50% -> 80%
+* [ ] [Governance](governance.md)
+  * [ ] SIP-1: increase instant xSTBL exit fee 50% -> 80%
+  * [ ] Inter-chain voting power
+  * [ ] Voting for MetaVault allocations
 
 ### Points earning
 
@@ -44,6 +47,7 @@ description: 'Last update: Sept 22, 2025'
 
 * [x] Sonic
 * [x] Avalanche
+* [ ] Plasma
 
 ### Platform Beta
 
@@ -64,8 +68,6 @@ description: 'Last update: Sept 22, 2025'
 
 ### STBL Tokenomics
 
-* [ ] Inter-chain voting power
-* [ ] Voting for MetaVault allocations
 * [ ] Voting for incentives allocations
 * [ ] Lending protocols integration
 * [ ] Bridging STBL

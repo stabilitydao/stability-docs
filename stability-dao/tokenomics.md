@@ -1,5 +1,5 @@
 ---
-description: 'Last Update: Feb 2025'
+description: 'Last update: Oct 2, 2025'
 ---
 
 # Tokenomics
@@ -22,6 +22,17 @@ description: 'Last Update: Feb 2025'
 
 ## Utilities
 
-* Profit sharing and governance by xSTBL
-* AI agents usage
-* Yield Contests rewards
+* STBL_DAO (staked xSTBL)
+  * Supreme Governance
+  * Inter-chain voting
+  * Revenue sharing
+* STBL
+  * Lending
+  * Tokenized agents liquidity
+
+## Links
+
+* [Coingecko](https://www.coingecko.com/en/coins/stability)
+* [STBL contract](https://sonicscan.org/token/0x78a76316F66224CBaCA6e70acB24D5ee5b2Bd2c7)
+* [STBL/USDC on Shadow](https://dexscreener.com/sonic/0xc00021495419f35ad564e289b5077f48d1399b2d)
+* [Staking](https://stability.farm/xstbl)
