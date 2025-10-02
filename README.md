@@ -2,25 +2,11 @@
 description: Infrastructure layer for strategic DeFi Assets Management
 cover: .gitbook/assets/2024-02-21 12.09.48.jpg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Welcome to Stability
 
-### <img src=".gitbook/assets/Stability_logotype (1).png" alt="" data-size="line">What is Stability?
+### <img src=".gitbook/assets/Stability_logotype (1).png" alt="" data-size="line"> What is Stability?
 
 Stability stands as a decentralised infrastructure layer for strategic DeFi Assets Management of crypto earnings through rewards. Designed with a focus on safety and efficiency, Stability ensures users achieve the highest Annual Percentage Yields (APYs) effortlessly.
 
