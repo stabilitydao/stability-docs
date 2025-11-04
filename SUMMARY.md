@@ -9,6 +9,7 @@
 
 ## Stability Platform
 
+* [Oracles](stability-platform/oracles.md)
 * [Assets Management](stability-platform/assets-management.md)
 * [Vaults](stability-platform/vaults/README.md)
   * [Compounder](stability-platform/vaults/compounder.md)
