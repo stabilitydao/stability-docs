@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Oct 2, 2025'
+description: 'Last update: Nov 18, 2025'
 ---
 
 # Roadmap
@@ -17,28 +17,28 @@ description: 'Last update: Oct 2, 2025'
 ### Products
 
 * [x] Lending and LP strategies
-* [x] Leverage farming
+* [x] Leverage Sonic points farming
+* [x] Lending markets
 * [x] MetaVaults
   * [x] Sonic **metaUSD**
   * [x] Sonic **metaS**
   * [x] Avalanche **metaUSDC**
-  * [ ] Plasma **metaUSDT**
-  * [ ] metaBTC
-  * [ ] metaETH
-* [ ] Lending markets
-* [ ] OmniVaults
-  * [ ] omniUSD
-  * [ ] omniBTC
-  * [ ] omniETH
+  * [x] Plasma **metaUSDT**
+  * [ ] Plasma ETHx2
+  * [ ] Plasma ETHx3
+  * [ ] Ethereum BTCx2
+  * [ ] Ethereum metaUSD
+* [ ] Managed MetaVaults
 
 ### STBL Tokenomics
 
 * [x] STBL public sale
 * [x] Staked xSTBL revenue sharing
-* [ ] [Governance](governance.md)
-  * [ ] SIP-1: increase instant xSTBL exit fee 50% -> 80%
+* [x] [Governance](governance.md)
+  * [x] SIP-1: increase instant xSTBL exit fee 50% -> 80%
   * [ ] Inter-chain voting power
   * [ ] Voting for MetaVault allocations
+* [ ] Bridging STBL
 
 ### Points earning
 
@@ -49,22 +49,24 @@ description: 'Last update: Oct 2, 2025'
 
 * [x] Sonic
 * [x] Avalanche
-* [ ] Plasma
+* [x] Plasma
+* [ ] Ethereum
 
-### Platform Beta
+### Platform Alpha
 
 * [x] Contracts audit (Spearbit-Cantina)
 * [x] Accident recovery system
 * [x] Vault price oracle
-* [ ] Agent network
-* [ ] Beta UI
 
 ## 2026 draft
 
 ### On-chain asset management
 
-* [ ] Expand to 10+ chains
-* [ ] Managed MetaVaults
+* [ ] OmniVaults
+    * [ ] omniUSD
+    * [ ] omniBTC
+    * [ ] omniETH
+* [ ] Expand to 5+ chains
 * [ ] Yield tracker agent
 * [ ] **tradeBTC** MetaVault and Trader agent
 
@@ -72,5 +74,9 @@ description: 'Last update: Oct 2, 2025'
 
 * [ ] Voting for incentives allocations
 * [ ] Lending protocols integration
-* [ ] Bridging STBL
 * [ ] Agents tokenization (voting, STBL/AGENT LPs)
+
+### Stability OS
+
+* [ ] OS network
+* [ ] Beta UI

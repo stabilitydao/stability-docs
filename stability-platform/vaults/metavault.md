@@ -1,5 +1,5 @@
 ---
-description: 'Last update: Oct 2, 2025'
+description: 'Last update: Nov 18, 2025'
 ---
 
 # MetaVault
@@ -21,6 +21,7 @@ A MetaVault is a vault that invests in other vaults. Our implementation has a un
 * Sonic **metaS**
   * metawS
 * Avalanche **metaUSDC**
+* Plasma **metaUSDT**
 
 ## Future MetaVaults
 
