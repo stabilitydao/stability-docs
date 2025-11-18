@@ -36,6 +36,7 @@ description: 'Last update: Nov 18, 2025'
 * [x] Staked xSTBL revenue sharing
 * [x] [Governance](governance.md)
   * [x] SIP-1: increase instant xSTBL exit fee 50% -> 80%
+  * [ ] STT bribed voting
   * [ ] Inter-chain voting power
   * [ ] Voting for MetaVault allocations
 * [ ] Bridging STBL
@@ -78,5 +79,5 @@ description: 'Last update: Nov 18, 2025'
 
 ### Stability OS
 
-* [ ] OS network
+* [ ] DAO OS MVP
 * [ ] Beta UI
