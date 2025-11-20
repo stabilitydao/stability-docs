@@ -1,83 +1,89 @@
 ---
-description: 'Last update: Nov 18, 2025'
+description: 'Last update: Nov 20, 2025'
 ---
 
 # Roadmap
 
 ## 2024
 
-* [x] Stability Platform MVP
-* [x] Compounder vault, LP and Farming base strategies
-* [x] 13 strategies developed
-* [x] Yield Contests with pSTBL rewards
+* [x] VaaS MVP: CVault, LP and Farming strategies
 * [x] Sonic Boom Winner
 
 ## 2025
 
-### Products
+### **VaaS** unit
 
-* [x] Lending and LP strategies
-* [x] Leverage Sonic points farming
-* [x] Lending markets
-* [x] MetaVaults
+* Points farming
+  * [x] Sonic Season 1 gems | sGEM1
+  * [x] Sonic Season 2 points
+* Security
+  * [x] Contracts audit (Spearbit-Cantina)
+  * [x] Accident recovery system
+* All vaults
+  * [x] Lending and LP strategies
+* Leverage vaults
+  * [x] Sonic stS_S_x20
+  * [ ] Plasma weETH_WETH_x10
+  * [ ] Plasma sUSDe_USDe_x9
+  * [ ] Plasma weETH_USDT_x2
+  * [ ] Plasma weETH_USDT_x3
+  * [ ] Ethereum BTC_USDC_x2
+* MetaVaults
   * [x] Sonic **metaUSD**
   * [x] Sonic **metaS**
   * [x] Avalanche **metaUSDC**
   * [x] Plasma **metaUSDT**
-  * [ ] Plasma ETHx2
-  * [ ] Plasma ETHx3
   * [ ] Ethereum BTCx2
   * [ ] Ethereum metaUSD
-* [ ] Managed MetaVaults
 
-### STBL Tokenomics
+### **Lending** unit
 
-* [x] STBL public sale
-* [x] Staked xSTBL revenue sharing
-* [x] [Governance](governance.md)
-  * [x] SIP-1: increase instant xSTBL exit fee 50% -> 80%
-  * [ ] STT bribed voting
-  * [ ] Inter-chain voting power
-  * [ ] Voting for MetaVault allocations
-* [ ] Bridging STBL
+* Markets
+  * [x] Sonic Vicuna
+  * [x] Sonic STBL
+  * [x] Sonic metaUSD g2
+  * [ ] Plasma STBL
+  * [ ] Ethereum Aave Core
+* Engines supported
+  * [x] Aave v3.0.2
+  * [ ] Aave v3.5
 
-### Points earning
+### **STBL** tokenomics
 
-* [x] Sonic Season 1 gems | sGEM1
-* [x] Sonic Season 2 points
+* [x] **TGE**
+* [x] SIP-1: PvP fee 50% -> 80%
+* [ ] **Community**: **VaaS** incentives
+* [ ] **Foundation**: **Lending** boost STBL markets
 
-### Chains
+### Real DAO building
 
-* [x] Sonic
-* [x] Avalanche
-* [x] Plasma
-* [ ] Ethereum
-
-### Platform Alpha
-
-* [x] Contracts audit (Spearbit-Cantina)
-* [x] Accident recovery system
-* [x] Vault price oracle
+* [x] Revenue sharing
+* [x] [Governance](governance.md) SIPs voting
+* [ ] STT bribed voting
+* [ ] Bridging STBL, xSTBL
+* [ ] Inter-chain staking
+* [ ] Manage MetaVaults by DAO
 
 ## 2026 draft
 
-### On-chain asset management
+### **VaaS** unit
 
+* [ ] Leveraged points farming
+* [ ] Perp arbitrage strategies
 * [ ] OmniVaults
-    * [ ] omniUSD
-    * [ ] omniBTC
-    * [ ] omniETH
-* [ ] Expand to 5+ chains
-* [ ] Yield tracker agent
+    * [ ] **omniUSD**
+    * [ ] **omniBTC**
+    * [ ] **omniETH**
 * [ ] **tradeBTC** MetaVault and Trader agent
-
-### STBL Tokenomics
-
-* [ ] Voting for incentives allocations
-* [ ] Lending protocols integration
-* [ ] Agents tokenization (voting, STBL/AGENT LPs)
-
-### Stability OS
-
-* [ ] DAO OS MVP
 * [ ] Beta UI
+
+### **Lending** unit
+
+* [ ] **Leverage tool**
+* Engines supported
+  * [ ] Compound V3
+  * [ ] Aave V4
+
+### **STBL** tokenomics
+
+* [ ] Use **Team** vesting funds to hire BUILDER_DAO for STBL_DAO development and operating [Q2-Q4]
